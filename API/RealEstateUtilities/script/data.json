@@ -1,0 +1,1368 @@
+{
+  "data": [
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 1
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 2
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 3
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 4
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 5
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 6
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 7
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 7
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 7
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 8
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 9
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 10
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 11
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 12
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 13
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 14
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 15
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 15
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 15
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 15
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 15
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 15
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 15
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 16
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 16
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 16
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 16
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 16
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 17
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 17
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 18
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 18
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 18
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 18
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 18
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 19
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 20
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 21
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 21
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 21
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 21
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 21
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 22
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 23
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 24
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 24
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 24
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 24
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 24
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 24
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 25
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 25
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 25
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 25
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 25
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 26
+    },
+    {
+      "realEstateUtilitiesName": "Nhà kho",
+      "realEstateCategoryId": 27
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 27
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 27
+    },
+    {
+      "realEstateUtilitiesName": "Ban công",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Phòng cho giúp việc",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Sân vườn",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Phòng giải trí",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe hơi",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Hồ bơi riêng",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Quầy minibar",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Góc làm việc",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Nuôi thú cưng",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Tầng hầm",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Chỗ đậu xe",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Sân nướng BBQ",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Thang máy",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Trung tâm thương mại",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Phòng sinh hoạt cộng đồng",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Phòng tập gym",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Công viên",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Bảo vệ 24/7",
+      "realEstateCategoryId": 28
+    },
+    {
+      "realEstateUtilitiesName": "Sân chơi trẻ em",
+      "realEstateCategoryId": 28
+    }
+  ]
+}

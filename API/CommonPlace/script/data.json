@@ -1,0 +1,154 @@
+{
+  "data": [
+    {
+      "CommonPlaceName": "Chợ UwU",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 5,
+      "commonPlaceType": "MARKET"
+    },
+    {
+      "CommonPlaceName": "Trường Mầm non QQQQQQQQQQQ",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 5,
+      "commonPlaceType": "SCHOOL"
+    },
+    {
+      "CommonPlaceName": "Trường Tiểu học WWWWWWWWW",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 5,
+      "commonPlaceType": "SCHOOL"
+    },
+    {
+      "CommonPlaceName": "Trường Trung học EEEEEEEE",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 5,
+      "commonPlaceType": "SCHOOL"
+    },
+    {
+      "CommonPlaceName": "Trường Đại học RRRRRRRRR",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 5,
+      "commonPlaceType": "UNIVERSITY"
+    },
+    {
+      "CommonPlaceName": "Bệnh viện TTTTTTTT",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 5,
+      "commonPlaceType": "HOSPITAL"
+    },
+    {
+      "CommonPlaceName": "Tàu Cát Linh",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 12,
+      "commonPlaceType": "STATION"
+    },
+    {
+      "CommonPlaceName": "Sân bay Quốc tế",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 6,
+      "commonPlaceType": "STATION"
+    },
+    {
+      "CommonPlaceName": "Siêu thị YYYYYYYYY",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 10,
+      "commonPlaceType": "MARKET"
+    },
+    {
+      "CommonPlaceName": "Trung tâm thương mại UUUUUUUUU",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 7,
+      "commonPlaceType": "MALL"
+    },
+    {
+      "CommonPlaceName": "Công viên IIIIIIII",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 8,
+      "commonPlaceType": "PARK"
+    },
+    {
+      "CommonPlaceName": "Quán cafe OOOOOO",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 6,
+      "commonPlaceType": "REST"
+    },
+    {
+      "CommonPlaceName": "Nhà hàng PPPPPPPP",
+      "lat": 999,
+      "lng": 999,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 3,
+      "areaWardId": 5,
+      "commonPlaceType": "RESTAURENT"
+    },
+    {
+      "CommonPlaceName": "Chùa AAAAAAA",
+      "lat": 99,
+      "lng": 99,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 54,
+      "areaWardId": 5,
+      "commonPlaceType": "PAGODA"
+    },
+    {
+      "CommonPlaceName": "GYM & YOGA SSSSSSS",
+      "lat": 99,
+      "lng": 99,
+      "areaCountryId": 1,
+      "areaProvinceId": 2,
+      "areaDistrictId": 54,
+      "areaWardId": 5,
+      "commonPlaceType": "FITNESS"
+    }
+  ]
+}
