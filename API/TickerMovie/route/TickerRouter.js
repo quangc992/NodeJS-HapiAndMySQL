@@ -69,7 +69,7 @@ module.exports = {
   },
   findById: {
     tags: ['api', `${moduleName}`],
-    description: `findAll ${moduleName}`,
+    description: `findById ${moduleName}`,
     pre: [{ method: CommonFunctions.verifyToken }],
     auth: {
       strategy: 'jwt',
@@ -86,7 +86,7 @@ module.exports = {
   },
   updateById: {
     tags: ['api', `${moduleName}`],
-    description: `findAll ${moduleName}`,
+    description: `updateById ${moduleName}`,
     pre: [{ method: CommonFunctions.verifyToken }],
     auth: {
       strategy: 'jwt',
@@ -103,7 +103,7 @@ module.exports = {
   },
   deleteById: {
     tags: ['api', `${moduleName}`],
-    description: `findAll ${moduleName}`,
+    description: `deleteById ${moduleName}`,
     pre: [{ method: CommonFunctions.verifyToken }],
     auth: {
       strategy: 'jwt',
