@@ -4,10 +4,13 @@ TemplateNodeJS project
 
 ## Discription
 
-##. hapijs
-##. mysql
-##. swagger
-##. eslint
+## hapijs
+
+## mysql
+
+## swagger
+
+## eslint
 
 ## Installation
 
